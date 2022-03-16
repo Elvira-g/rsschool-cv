@@ -75,5 +75,10 @@ class C_Faq extends Controller {
 }
 ```
 
+## Experience
+* [Commercial project](https://sidelki-zabota.ru/)
+* [Task for a vacancy](https://github.com/Elvira-g/ABC_Mobile_test)
+* [Study project](https://rolling-scopes-school.github.io/elvira-g-JSFEPRESCHOOL/portfolio/)
+* [Study project](https://rolling-scopes-school.github.io/elvira-g-JSFEPRESCHOOL/audiopleer/)
 
 
