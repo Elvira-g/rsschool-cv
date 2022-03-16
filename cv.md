@@ -81,4 +81,8 @@ class C_Faq extends Controller {
 * [Study project](https://rolling-scopes-school.github.io/elvira-g-JSFEPRESCHOOL/portfolio/)
 * [Study project](https://rolling-scopes-school.github.io/elvira-g-JSFEPRESCHOOL/audiopleer/)
 
+## Education
+**Higher education**  
+[Academic International Institute](http://ami-map.ru) - Management
+
 
