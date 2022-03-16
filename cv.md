@@ -89,5 +89,9 @@ class C_Faq extends Controller {
 [Geekbrains](https://gb.ru) - Web developer  
 [Moscow Institute of Foreign Languages](http://www.mosinyaz.com) - B1 Business Preliminary
 
+## Languages
+* **Russian** (native)
+* **English** (intermediate)
+
 
 
