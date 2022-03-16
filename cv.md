@@ -85,4 +85,9 @@ class C_Faq extends Controller {
 **Higher education**  
 [Academic International Institute](http://ami-map.ru) - Management
 
+**Additional education**  
+[Geekbrains](https://gb.ru) - Web developer  
+[Moscow Institute of Foreign Languages](http://www.mosinyaz.com) - B1 Business Preliminary
+
+
 
